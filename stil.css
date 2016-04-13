@@ -1,0 +1,34 @@
+
+body{
+	background-color: rgb(255, 255, 179);
+	overflow:hidden;
+}
+
+.container-fluid{
+	margin:0;
+	padding:0;
+}
+
+.navbar-default ul li a{
+	font-family : "Times New Roman";
+	font-style : italic;
+	font-size: 22px;
+}
+
+.middle li a{
+	color: rgb(102, 20, 0);
+	font-weight:200;
+	font-size: 23px;
+	font-family:Tahoma, Geneva, sans-serif;
+	text-decoration:none;
+	}
+
+.middle li a:hover{
+	color: rgb(255, 133, 102);
+	}		
+
+.middle{
+	position:absolute;
+	top:40%;
+	left:50%;
+	}		
